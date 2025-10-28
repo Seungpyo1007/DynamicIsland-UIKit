@@ -6,7 +6,7 @@ A clone coding project that implements iOS Dynamic Island UI with various brand 
 
 ## 📱 Project Overview
 
-This project recreates the Dynamic Island feature from iPhone 14 Pro and above using Swift and SwiftUI, implementing unique UI/UX for each brand.
+This project recreates the Dynamic Island feature from iPhone 14 Pro and above using Swift. While the Dynamic Island implementation itself leverages SwiftUI for its unique UI/UX, the rest of the application's user interface is built with UIKit.
 
 ## 🌿 Branch Structure
 
