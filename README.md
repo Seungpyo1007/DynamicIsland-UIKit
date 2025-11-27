@@ -13,6 +13,8 @@ This project recreates the Dynamic Island feature from iPhone 14 Pro and above u
 ### `bemin` - Baemin (Korean Food Delivery) Style
 - Applied Baemin app's UI/UX to Dynamic Island
 - Displays order progress, delivery status, etc. through Dynamic Island
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/f58e7fee-1081-42cd-9a65-0e7fd6501795" />
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/a0b941de-59af-49f5-a141-cfc83cda501f" />
 
 ## 🚀 Getting Started
 
