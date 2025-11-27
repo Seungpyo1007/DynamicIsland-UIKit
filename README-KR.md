@@ -13,6 +13,8 @@ iOS의 Dynamic Island UI를 다양한 브랜드 스타일로 구현한 클론 �
 ### `bemin` - 배달의민족 스타일
 - 배달의민족 앱의 UI/UX를 Dynamic Island에 적용
 - 주문 진행 상태, 배달 현황 등을 Dynamic Island로 표현
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/f58e7fee-1081-42cd-9a65-0e7fd6501795" />
+<img width="296" height="640" alt="Image" src="https://github.com/user-attachments/assets/a0b941de-59af-49f5-a141-cfc83cda501f" />
 
 ## 🚀 시작하기
 
